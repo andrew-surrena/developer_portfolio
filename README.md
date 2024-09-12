@@ -13,44 +13,32 @@ While building this portfolio page, I was able to practice using React with Vite
 
 ## Installation
 
-There is no need to install any package, since the webpage is deployed using Netlify. Simply [click here]() to visit the deployed page.
+There is no need to install any package, since the webpage is deployed using Netlify. Simply [click here](https://andrew-surrena-developer-portfolio.netlify.app/) to visit the deployed page.
 
 ## Usage
 
-To utilize app, start by accessing the folder in your terminal:
+Use the webpage by clicking the different navigation links in the top left corner:
+* About ME
+* Portfolio
+* Contact
+* Resume
 
-![photo of terminal ](./assets/Screenshot%202024-08-19%20at%209.19.03 PM.png)
-
-Next, download the necessary modules by running the line: 
-```
-npm i
-```
-
-Now, you can run the application by running the line:
-```
-npm run start
-```
-
-Answer the prompts provided to add an Employee, add a Role, or add a Department or view a pre-loaded list of existing Employees, Roles, and Departments.
-
-### Access video demo: 
-
-* https://youtu.be/WmUd5jjpS7U
+You can also click the Github logo at the bottom of the page to visit my github page, or click the LinkedIn logo to visit my linkedin page.
 
 ## Credits
-Special thanks to the following instructors for their help:
+Special thanks to the following instructor and colleague for their help:
 * Leif Hetland
-* Daniel Ceballos
+* Ruben Dominguez
 
 Starter Code provided by:
 * edX Boot Camps LLC
 
 The following technologies were used:
-* Inquirer
-* TypeScript
-* PostgreSQL
-* dotenv
-* pg
+* React
+* Vite
+* CSS
+* HTML
+* JavaScript
 
 ## Questions/How to Contribute
 
